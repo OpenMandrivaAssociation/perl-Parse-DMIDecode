@@ -48,3 +48,10 @@ rm -rf %buildroot
 %perl_vendorlib/*
 
 
+
+
+%changelog
+* Tue May 31 2011 Guillaume Rousse <guillomovitch@mandriva.org> 0.30.0-1mdv2011.0
++ Revision: 682057
+- import perl-Parse-DMIDecode
+
